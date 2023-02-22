@@ -9,7 +9,7 @@ How did you approach the problem? Consider why data structures are important to 
 - I approached the problem by understanding the data structures I would be using and understanding the format the file needed to be parsed and checked for. Data structures are extremely important because they allow for an efficient and more managed way for data storage to be done.
 
 How did you overcome any roadblocks you encountered while going through the activities or project?
-- One roadblock that I did have was when trying to alphanumerically sort the hash table. I wasn't entirely sure of the process that was supposed to be done but came to the conclusion that I should create a list and store the hash tables elements in it. I then sorted the list and printed it out.
+- One roadblock I had was the CSV parser that was provided was not working so i had to parse the file myself. Another was when trying to alphanumerically sort the hash table. I wasn't entirely sure of the process that was supposed to be done but came to the conclusion that I should create a list and store the hash tables elements in it. I then sorted the list and printed it out. 
 
 How has your work on this project expanded your approach to designing software and developing programs?
 - Working on this project has helped me understand that there are better ways to store data and it is important to understand the best and most efficient way to use it for your implementation.
